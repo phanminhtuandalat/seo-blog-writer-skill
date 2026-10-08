@@ -8,6 +8,12 @@ SEO Blog Writer là skill hướng dẫn ChatGPT thực hiện quy trình viết
 
 [Đọc hướng dẫn đầy đủ trong SKILL.md](SKILL.md) · [Mở skill đã cài trong ChatGPT](https://chatgpt.com/skills?skill_id=6a9992d4b6b481918e9e786f1e544565)
 
+## Website giới thiệu
+
+Bản website tĩnh tiếng Việt nằm trong `docs/`, có quy trình, mẫu yêu cầu để sao chép, hỏi đáp và ảnh đại diện khi chia sẻ liên kết. Không cần build hoặc khóa API để chạy trang giới thiệu. Việc viết bài và tạo ảnh thực hiện trong ChatGPT.
+
+[Mở website SEO Blog Writer](https://phanminhtuandalat.github.io/seo-blog-writer-skill/) · [Hướng dẫn triển khai GitHub Pages](DEPLOYMENT.md).
+
 ## Bạn nhận được gì?
 
 - 10 gợi ý tiêu đề phù hợp với từ khóa và mục tiêu tìm kiếm.
